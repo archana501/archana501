@@ -63,8 +63,7 @@ I am continuously learning and building projects in **Business Intelligence, Dat
 | [Nykaa Sales & Profit Analysis Dashboard](https://github.com/archana501/Nykaa-Sales-Profit-Analysis)                 | Sales and profitability analysis focused on customer demographics, product returns, profit margins, and regional performance.              | Power BI, Power Query, DAX                  |
 | [Social Media Marketing Analysis Dashboard](https://github.com/archana501/Social-Media-Marketing-Analysis-Dashboard) | Marketing performance analysis covering engagement, conversions, followers, platforms, content types, and regional trends.                 | Power BI, Excel, DAX                        |
 | [Boutique Sales Analysis](https://github.com/archana501)                                                             | Excel dashboard analyzing sales, profit, customer behavior, product performance, discounts, and monthly trends.                            | Microsoft Excel, Pivot Tables, Pivot Charts |
-| [Library Management System](https://github.com/archana501/Python_miniproject_Library_Management)                     | Python-based application for managing books, borrowing, returns, and library operations.                                                   | Python, OOP                                 |
-| [Supply Chain Management Analytics](https://github.com/archana501/ML_supply-chain-management)                        | Data analysis project involving data preprocessing, exploratory data analysis, feature engineering, and supply chain performance analysis. | Python, Pandas, Machine Learning            |
+
 
 📌 *See my pinned repositories below for more projects.*
 
