@@ -62,7 +62,7 @@ I am continuously learning and building projects in **Business Intelligence, Dat
 | [Hospital Management Analytics Dashboard](https://github.com/archana501/Hospital-Management-Analytics-Dashboard)     | Hospital analytics dashboard covering patient admissions, revenue, doctor performance, bed occupancy, risk prediction, and forecasting.    | Power BI, Excel, DAX, ML                    |
 | [Nykaa Sales & Profit Analysis Dashboard](https://github.com/archana501/Nykaa-Sales-Profit-Analysis)                 | Sales and profitability analysis focused on customer demographics, product returns, profit margins, and regional performance.              | Power BI, Power Query, DAX                  |
 | [Social Media Marketing Analysis Dashboard](https://github.com/archana501/Social-Media-Marketing-Analysis-Dashboard) | Marketing performance analysis covering engagement, conversions, followers, platforms, content types, and regional trends.                 | Power BI, Excel, DAX                        |
-| [Boutique Sales Analysis](https://github.com/archana501)                                                             | Excel dashboard analyzing sales, profit, customer behavior, product performance, discounts, and monthly trends.                            | Microsoft Excel, Pivot Tables, Pivot Charts |
+| [Boutique Sales Analysis](https://github.com/archana501/Boutique-Sales-Analysis)                                                             | Excel dashboard analyzing sales, profit, customer behavior, product performance, discounts, and monthly trends.                            | Microsoft Excel, Pivot Tables, Pivot Charts |
 
 
 📌 *See my pinned repositories below for more projects.*
